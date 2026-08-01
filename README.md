@@ -111,7 +111,7 @@ A project demonstration video is included in the **Project Demonstration** folde
 
 ## 👨‍💻 Author
 
-**Ranjith Kumar**
+**Jeelaga Ranjith Kumar**
 
 B.Tech – Computer Science and Engineering (Data Science)
 
@@ -128,8 +128,3 @@ KKR & KSR Institute of Technology and Sciences
 - AI-based Request Recommendations
 - Performance Analytics Dashboard
 
----
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
